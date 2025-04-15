@@ -108,6 +108,13 @@ run test
 - Extent Report Screenshot
 ![image](https://github.com/user-attachments/assets/802bd0e6-9719-4e2e-a847-fe6749b42ccd)
 - Jenkins
+![Successfull Build](https://github.com/user-attachments/assets/1095da89-282f-4616-9097-d130e3c8876a)
+- webhook(for CI/CD)
+![Webhook](https://github.com/user-attachments/assets/cc05d38b-fbb0-4496-a54e-e89f384e985e)
+- ParaBank
+![ParaBank UI](https://github.com/user-attachments/assets/b1e2f279-5a97-48a0-85fc-74bff7a74018)
+
+
   
 
 
